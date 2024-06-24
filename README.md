@@ -1,0 +1,1 @@
+This project was created by Kayden Schwartz as a sample project to create functions that manipulate, and provide insights into hurricane data provided by NOAA. For simplicity the data is manually added into the Git file.
